@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Sample Corp//Calendar Test//EN
-CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:dede@gmail.com's Trips
+X-WR-CALDESC:Calendar feed
 
 BEGIN:VEVENT
 UID:test-event-gg2@example.com
@@ -15,3 +16,4 @@ SEQUENCE:3
 END:VEVENT
 
 END:VCALENDAR
+
